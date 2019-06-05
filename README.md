@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/trenpixster/addict.svg)](https://travis-ci.org/trenpixster/addict) [![Hex.pm](http://img.shields.io/hexpm/v/addict.svg)](https://hex.pm/packages/addict) [![Hex.pm](http://img.shields.io/hexpm/dt/addict.svg)](https://hex.pm/packages/addict)
 [![Deps Status](https://beta.hexfaktor.org/badge/all/github/trenpixster/addict.svg)](https://beta.hexfaktor.org/github/trenpixster/addict)
 [![Inline docs](http://inch-ci.org/github/trenpixster/addict.svg)](http://inch-ci.org/github/trenpixster/addict)
+[![Open Source Helpers](https://www.codetriage.com/trenpixster/addict/badges/users.svg)](https://www.codetriage.com/trenpixster/addict)
 
 # Addict
 
